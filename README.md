@@ -19,7 +19,7 @@ Author-Sanya Bansal
   <p>        Click the "Stop" button to end the game at any time.</p>
   <p>        If you find the current word too difficult, click the "Refresh" button to generate a new word.</p>
 
-  <h2>Technology Stack/What I learned:</h2>
+  <h2>Technology Stack / What I learned:</h2>
   <p>      <b>HTML </b>:For creating the basic structure of the game.</p>
   <p>      <b> CSS</b>: For styling the basic structure of the game.</p>
   <p>      <b> Javascript</b>: </p>
